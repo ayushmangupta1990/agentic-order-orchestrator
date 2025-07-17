@@ -1,5 +1,7 @@
 # Agentic Order Orchestrator
 
+[![CI](https://github.com/ayushmangupta1990/agentic-order-orchestrator/actions/workflows/ci.yml/badge.svg)](https://github.com/ayushmangupta1990/agentic-order-orchestrator/actions/workflows/ci.yml)
+
 A small, executable reference implementation of a supervisor-worker order
 workflow. It demonstrates typed state, deterministic routing, idempotency,
 inventory reservation, bounded execution, and an auditable event trail.
